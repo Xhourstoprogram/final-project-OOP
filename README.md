@@ -1,3 +1,3 @@
 OOP Final project
-# Sudoku Solver
+# Flappy Bird
 Reynard Timotius Purnomo - 2501963261 - L2CC
